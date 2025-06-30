@@ -1,6 +1,6 @@
 # Olá, Mundo!
 Primeiro repositório do curso Git e GitHub
 
-Primeira aula do curso em vídeo
+Primeira **aula** do curso em vídeo
 
-Essa parte eu alterei no próprio GitHub
+Essa *parte* eu alterei no próprio GitHub
